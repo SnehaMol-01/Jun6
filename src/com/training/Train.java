@@ -7,5 +7,5 @@ public class Train {
 		
 	}bhb
 public static void main(String[] args) {
-	
+	bhb
 }
